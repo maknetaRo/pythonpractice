@@ -9,4 +9,4 @@ My summer of code in Python
 7. 
 8. Drawing names out of a hat - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex8.py
 9. Simple quiz - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex9.py
-10. 
+10. Replacing words - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex10.py
