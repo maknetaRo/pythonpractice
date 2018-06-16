@@ -3,8 +3,8 @@
 
 
 def five_numbers(numbers):
-    numbers = numbers.split(', ')
-    return '+'.join(numbers)
+   
+    return '+'.join(numbers.split(', '))
 
 numbers = input("Enter five numbers separted by comma: ")
 print(five_numbers(numbers))
