@@ -22,13 +22,10 @@ print(random_sentence(sentence))
 def random_sentence(sentence):
     """Return randomly rearranged words in a sentece"""
     sentence_into_list = sentence.split(' ')
-
-    print(sentence_into_list)
     shuffle(sentence_into_list)
     new_sentence = []
     for element in sentence_into_list:
         new_sentence.append(element.strip('.').lower())
-    print(new_sentence)
     return ' '.join(new_sentence).capitalize()
 
 sentence = input("Write a sentence: ")
