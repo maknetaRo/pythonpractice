@@ -19,3 +19,5 @@ My summer of code in Python
 17. List of numbers - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex1a.py
 18. Generate a list of 20 random numbers - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex2a.py
 19. List methods practice - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex3a.py
+20. List of strings - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex4a.py
+21. Exchanging numbers - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex5a.py
