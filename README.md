@@ -12,3 +12,7 @@ My summer of code in Python
 10. Replacing words - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex10.py
 11.
 12. Valid number - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex12.py
+13. List comprehensions 1- https://github.com/maknetaRo/pythonpractice/blob/master/list_ex13.py
+14. Palindromic numbers - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex14.py
+15.
+16. List comprehension 2 - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex16.py
