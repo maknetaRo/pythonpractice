@@ -18,3 +18,4 @@ My summer of code in Python
 16. List comprehension 2 - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex16.py
 17. List of numbers - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex1a.py
 18. Generate a list of 20 random numbers - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex2a.py
+19. List methods practice - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex3a.py
