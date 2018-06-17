@@ -10,3 +10,5 @@ My summer of code in Python
 8. Drawing names out of a hat - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex8.py
 9. Simple quiz - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex9.py
 10. Replacing words - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex10.py
+11.
+12. Valid number - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex12.py
