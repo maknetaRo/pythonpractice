@@ -26,4 +26,5 @@ My summer of code in Python
 24.  https://github.com/maknetaRo/pythonpractice/blob/master/list_ex14a.py
 25.  https://github.com/maknetaRo/pythonpractice/blob/master/list_ex15a.py
 26. Convert kilograms into pounds - https://github.com/maknetaRo/pythonpractice/blob/master/while_ex2.py
+27. Checking a password - https://github.com/maknetaRo/pythonpractice/blob/master/while_ex4.py
 
