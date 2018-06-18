@@ -21,4 +21,9 @@ My summer of code in Python
 19. More about lists - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex6a.py
 20. Summing integers in two lists - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex7a.py
 21. Print all factors of an integer - https://github.com/maknetaRo/pythonpractice/blob/master/list_ex8a.py
+22.  https://github.com/maknetaRo/pythonpractice/blob/master/list_ex10a.py
+23.  https://github.com/maknetaRo/pythonpractice/blob/master/list_ex13a.py
+24.  https://github.com/maknetaRo/pythonpractice/blob/master/list_ex14a.py
+25.  https://github.com/maknetaRo/pythonpractice/blob/master/list_ex15a.py
+26. Convert kilograms into pounds - https://github.com/maknetaRo/pythonpractice/blob/master/while_ex2.py
 
