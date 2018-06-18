@@ -12,8 +12,10 @@ def simple_quiz(questions, answers):
         print(question)
         answer = input("> ").title()
         if answer.title() not in answers:
+            print("Wrong")
             continue
         if answers.index(answer) == questions.index(question):
+            print("Correct")
             count += 1
 
     return "You gave {} correct answers.".format(count)
