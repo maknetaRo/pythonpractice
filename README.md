@@ -28,4 +28,6 @@ My summer of code in Python
 26. Convert kilograms into pounds - https://github.com/maknetaRo/pythonpractice/blob/master/while_ex2.py
 27. Checking a password - https://github.com/maknetaRo/pythonpractice/blob/master/while_ex4.py
 28. While loop - grades - https://github.com/maknetaRo/pythonpractice/blob/master/while_ex5.py
+29. Squares end in 1 - https://github.com/maknetaRo/pythonpractice/blob/master/mis1.py
+30. Squares end in 4 and 9 - https://github.com/maknetaRo/pythonpractice/blob/master/mis2.py
 
