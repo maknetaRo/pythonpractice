@@ -32,4 +32,6 @@ My summer of code in Python
 30. Squares end in 4 and 9 - https://github.com/maknetaRo/pythonpractice/blob/master/mis2.py
 31. Sum of divisors - https://github.com/maknetaRo/pythonpractice/blob/master/mis5.py
 32. Use while loop to read through a string - https://github.com/maknetaRo/pythonpractice/blob/master/ex2.py
+33. Print out an index of a letter in a string - https://github.com/maknetaRo/pythonpractice/blob/master/ex7.py
+34. Euclid's Algorithm - https://github.com/maknetaRo/pythonpractice/blob/master/ex8.py
 
