@@ -34,4 +34,5 @@ My summer of code in Python
 32. Use while loop to read through a string - https://github.com/maknetaRo/pythonpractice/blob/master/ex2.py
 33. Print out an index of a letter in a string - https://github.com/maknetaRo/pythonpractice/blob/master/ex7.py
 34. Euclid's Algorithm - https://github.com/maknetaRo/pythonpractice/blob/master/ex8.py
+35. Simple game flip coins - https://github.com/maknetaRo/pythonpractice/blob/master/wh_ex14.py
 
